@@ -1,0 +1,43 @@
+.profile {
+    margin: auto;
+    display: block;
+    border: 20px;
+    border-radius: 5px;
+    width: 700px;
+    box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08)
+}
+
+.description {
+    display: block;
+    text-align: center
+   
+}
+.stats {
+display: flex;
+text-align: center;
+justify-content: center;
+padding: 0;
+height:80px;
+
+list-style: none;
+}
+.label {
+    display: block;
+    padding-top: 10px;
+}
+.block-stats {
+display: block;
+text-align: center;
+width: 100%;
+box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
+background-color: rgb(179, 235, 216);
+}
+
+.quantity {
+    display: block;
+    padding-top: 10px;
+}
+
+.name {
+    font-weight: 500px;
+}

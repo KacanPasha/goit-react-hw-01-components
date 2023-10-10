@@ -1,4 +1,4 @@
-import styles from './Profile.css'
+import './Profile.css'
 export const Profile = ({ user }) => {
   const { username, tag, location, avatar, stats } = user;
 

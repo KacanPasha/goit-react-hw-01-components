@@ -1,4 +1,4 @@
-import styles from './Statistics.css'
+import './Statistics.css'
 export const Statistics = ({ data }) => {
   const { title = 'Upload stats'} = data;
 

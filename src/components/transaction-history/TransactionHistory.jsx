@@ -1,4 +1,4 @@
-import styles from './TransactionHistory.css'
+import './TransactionHistory.css'
 export const TransactionHistory = ({ transactions }) => {
 
     return (
